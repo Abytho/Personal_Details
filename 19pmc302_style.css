@@ -1,0 +1,41 @@
+body {
+  background-color: #6c7ae0;
+  color: black;
+  font-family: "Times New Roman"
+  width: 100%;
+}
+
+.heading {
+	padding-top: 10px;
+	text-align: center;
+	font-size: 200%;
+	color: black;
+	
+}
+
+
+
+table {
+	padding-top: 5px;
+	margin: auto;
+}
+
+th, td {
+	border: 1px solid black;
+}
+
+
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button {
+	padding-top: 15px;
+	text-align: center;
+	font-size: 100%;
+	color: black;
+		
+}
+	
